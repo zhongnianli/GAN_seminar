@@ -1,2 +1,2 @@
-# GAN-
+# GAN_seminar
 GAN
