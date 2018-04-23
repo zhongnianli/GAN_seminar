@@ -5,6 +5,6 @@
 - 跨模态图像重建
 - 弱监督图像分析
 - GAN模型扩展
-
+- 相似性度量
 ##### matlab学习资料
 - [百度网盘](https://pan.baidu.com/s/1nw4mCAX) 密码：86zu
