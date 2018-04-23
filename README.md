@@ -10,3 +10,4 @@
 - [matlab学习资料](https://pan.baidu.com/s/1nw4mCAX) 密码：86zu
 - [cycle GAN](https://junyanz.github.io/CycleGAN/)
 - [WGAN EM distance 推导](https://vincentherrmann.github.io/blog/wasserstein/)
+- [openAI GAN blog](https://blog.openai.com/generative-models/)
